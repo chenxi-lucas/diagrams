@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T09:18:14.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="6ApYm_yL8U7nTIg7MyLA" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T10:12:23.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="48ZtTzYzQT4Rp92Au1aJ" version="14.6.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3395" dy="7450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2530" dy="6967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="WIyWlLk6GJQsqaUBKTNV-0">
           <mxCell />
@@ -2081,6 +2081,36 @@
         </mxCell>
         <mxCell id="6uCfF6OMmFcHJT5gRfgG-93" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1969" y="920" width="508" height="578" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-94" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=14;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2038" y="-1147" width="178" height="368" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-95" value="管理员" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=28;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2064" y="-1096" width="138" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-96" value="学生" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=28;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2064" y="-991" width="142" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-97" value="教师" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=28;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2064" y="-889" width="142" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-98" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=14;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2420" y="-1329" width="337" height="652" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-99" value="学院管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=28;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2482" y="-1298" width="194" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-102" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=14;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2995" y="-1196" width="257" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-103" value="&#xa;管理员表&#xa;学院表&#xa;专业表&#xa;班级表&#xa;教师表&#xa;学生表&#xa;运动项成绩表&#xa;测试项数据表" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=26;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3024.5" y="-1114" width="203" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-106" value="DATABASE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3103.5" y="-1163" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-111" value="Web Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2508" y="-1073" width="154" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
