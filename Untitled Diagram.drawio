@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T12:13:13.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="J_junrIsZaJOQSNMgu02" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T12:14:42.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="lDjaX7oF7TvJ_gw_xp4z" version="14.6.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2876" dy="7160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2294,6 +2294,9 @@
         </mxCell>
         <mxCell id="6uCfF6OMmFcHJT5gRfgG-164" value="登录表" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2884" y="435" width="173" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-165" value="" style="html=1;fontSize=33;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1879" y="832" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
