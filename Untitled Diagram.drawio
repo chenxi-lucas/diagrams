@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T11:57:52.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="C6GZzEGTNXlK_zwPna8p" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T12:13:13.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="J_junrIsZaJOQSNMgu02" version="14.6.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2530" dy="6967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="7160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <object label="" id="WIyWlLk6GJQsqaUBKTNV-0">
           <mxCell />
@@ -2079,9 +2079,6 @@
             <mxPoint x="1250.5" y="-3766" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6uCfF6OMmFcHJT5gRfgG-93" value="Block" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1969" y="920" width="508" height="578" as="geometry" />
-        </mxCell>
         <mxCell id="6uCfF6OMmFcHJT5gRfgG-94" value="" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fontSize=14;rotation=-180;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2013" y="-1194" width="178" height="368" as="geometry" />
         </mxCell>
@@ -2285,6 +2282,18 @@
             <mxPoint x="2611" y="-275" as="sourcePoint" />
             <mxPoint x="2634" y="345" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-155" value="用&lt;br&gt;户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1879" y="421" width="90" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-162" value="登录" style="shape=umlBoundary;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2181" y="429" width="198" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-163" value="登录控制" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2536" y="407" width="170" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="6uCfF6OMmFcHJT5gRfgG-164" value="登录表" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fontSize=33;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2884" y="435" width="173" height="158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
